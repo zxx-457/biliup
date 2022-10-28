@@ -34,7 +34,7 @@ pool2_size = 3
 check_sourcecode = 15
 
 
-[streamers."星际2INnoVation吕布卫星人族天梯第一视角"]
+[streamers."My Tag"]
 url = [
   "https://www.youtube.com/watch?v=mxCl3cLXdHc&list=OLAK5uy_ls0R38UPbK8PzqSjuHECDBP4w-20p5zis",
 ]
